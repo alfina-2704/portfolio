@@ -1,0 +1,89 @@
+.contact-form{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.contact-form h2{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-size: 50px;
+    color: #fff;
+}
+.contact-form h2 span{
+    color: #0bb227;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-size: 50px;
+}
+.contact-form form{
+    max-width: 500px;
+    margin: 10px auto;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.contact-form form .input-box{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.contact-form form .input-box input,
+.contact-form form textarea{
+
+    width: 100%;
+    padding: 15px;
+    font-size: 18px;
+    color: #fff;
+    background: #000017;
+    box-shadow: 0 0 12px 12px #0bb227;
+    border-radius: 8px;
+    margin: 20px 0;
+    resize: none;
+}
+.btn-1{
+  padding: 15px 20px;
+  background-color: #000;
+  color: #0bb227;
+  border: 2px solid transparent;
+  border-radius: 8px;
+  font-size: 18px;
+  letter-spacing: 1px;
+  font-weight: 600;
+  cursor: pointer;
+
+}
+.btn-1:hover{
+    background-color: #fff;
+    color: #0bb227;
+    text-shadow: 0 0 25px#0bb227;
+    
+}
+
+
+#footer{
+    margin: 20px 0 12px 0;
+    text-align: center;
+}
+
+h1{
+    color: #fff;
+}
+
+h1 span{
+    color: #0bb227;
+}
+h6{
+    color: #fff;
+    font-size: 25px;
+    font-weight: 400;
+}
+p{
+    color: #fff;
+    font-size: 20px;
+    text-align: center;
+}

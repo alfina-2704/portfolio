@@ -1,0 +1,118 @@
+#hobbies-section {
+    height: 1100px;
+    width: 100%;
+    margin-bottom: 50px;
+    /* border: 2px solid aqua; */
+}
+
+#hobbies-section #hobb-head {
+    /* border: 2px solid yellow; */
+    height: 100%;
+    width: 100%;
+}
+
+#hobb-head #hobbies-hed {
+    /* border: 2px solid aqua ; */
+    text-align: center;
+    margin-top: 30px;
+}
+
+#hobb-head #hobbies-hed h1 {
+    color: #fff;
+    font-size: 70px;
+    word-spacing: 5px;
+    letter-spacing: 3px;
+}
+
+#hobbies-box {
+    /* border: 2px solid aqua; */
+    margin-top: 30px;
+}
+
+#hobbies-box #hobbies-info {
+
+    display: flex;
+    justify-content: space-between;
+    /* border: 2px solid aliceblue; */
+}
+
+#hobbies-box #hobbies-sports {
+    border: 2px solid #0bb227;
+    box-shadow: 0 0 12px 12px #0bb227;
+    height: 100%;
+    width: 30%;
+    margin: 20px 30px;
+    text-align: center;
+
+}
+
+#hobbies-box #hobbies-sports h1{
+    color: #fff;
+    font-size: 30px;
+    margin: 20px 0;
+}
+
+#hobbies-box #hobbies-sports img{
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+
+#hobbies-box #hobbies-sports p{
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+#hobbies-box #hobbies-travelling {
+    border: 2px solid #0bb227;
+    box-shadow: 0 0 12px 12px #0bb227;
+    height: 100%;
+    width: 30%;
+    margin: 10px 30px;
+    text-align: center;
+}
+
+#hobbies-box #hobbies-travelling h1{
+    color: #fff;
+    font-size: 30px;
+    margin: 20px 0;
+}
+
+#hobbies-box #hobbies-travelling img{
+    margin: 30px;
+}
+
+#hobbies-box #hobbies-travelling p{
+    color: #fff;
+   margin: 10px;
+}
+
+#hob{
+    border: 2px solid #0bb227;
+    box-shadow: 0 0 12px 12px #0bb227;
+    width: 100%;
+    max-width: 40%;
+    margin: 50px auto 0;
+    text-align: center;
+}
+
+#hob #hobbies-gaming{
+    height: 100%;
+    width: 100%;
+  
+}
+
+#hob #hobbies-gaming h1{
+    color: #fff;
+    font-size: 30px;
+    margin: 20px 0;
+}
+
+#hob #hobbies-gaming img{
+    margin: 10px;
+}
+
+#hob #hobbies-gaming p{
+    color: #fff;
+    margin: 10px;
+}

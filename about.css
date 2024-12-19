@@ -1,0 +1,61 @@
+#about {
+    background-color: black;
+    height: 700px;
+    width: 100%;
+}
+
+#about #about-body {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    justify-content: space-between;
+}
+
+
+
+#about #about-img {
+    height: 100%;
+    width: 50%;
+}
+
+#about #about-img img {
+    height: 50%;
+    margin-top: 170px;
+}
+
+#about-text {
+    text-align: start;
+    margin-top: 150px;
+    margin-left: 70px;
+    height: 80%;
+}
+
+#about-text h1 {
+    font-size: 60px;
+    color: white;
+    font-weight: 500;
+    margin-bottom: 50px;
+    text-decoration: underline;
+
+
+}
+
+#about-text h1 span {
+    color: #0bb227;
+
+}
+
+#about-text h3 {
+    font-size: 40px;
+    color: #0bb227;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+
+#about-text p {
+    text-align: justify;
+    font-size: 20px;
+    color: white;
+    line-height: 50px;
+    font-weight: 300;
+}
